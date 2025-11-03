@@ -1,10 +1,10 @@
-<div align="Center">
+<div align="center">
   
-# 👋 Hi, I'm Omprakash Rout AKA OP
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Omprakash+Rout+AKA+OP;Machine+Learning+Engineer+🤖;AI+Researcher+🔬;CS+Undergrad+🎓" alt="Typing SVG" />
+</h1>
 
-### 🤖 Machine Learning Engineer | 🔬 AI Researcher | 🎓 CS Undergrad
-
-<p align="left">
+<p align="center">
   <em>Specializing in LLMs, RAG Systems, and ML Operations</em>
 </p>
 
@@ -129,13 +129,9 @@ print("Status:", me.get_status())
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omprakashrouttt/omprakashrouttt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omprakashrouttt/omprakashrouttt/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omprakashrouttt/omprakashrouttt/output/github-contribution-grid-snake.svg">
-</picture>
+![](https://github-readme-activity-graph.vercel.app/graph?username=omprakashrouttt&theme=react-dark&hide_border=true&area=true)
 
 ---
 
