@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm OmPrakash Rout AKA OP
+# 👋 Hi, I'm Omprakash Rout AKA OP
 
 ### 🤖 Machine Learning Engineer | 🔬 AI Researcher | 🎓 CS Undergrad
 
@@ -61,8 +61,6 @@ print("Status:", me.get_status())
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -70,12 +68,14 @@ print("Status:", me.get_status())
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Web Frameworks
+### Web Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -95,7 +95,9 @@ print("Status:", me.get_status())
 ![Mistral](https://img.shields.io/badge/Mistral-FF6B6B?style=for-the-badge)
 ![Qwen](https://img.shields.io/badge/Qwen-FF6B35?style=for-the-badge)
 
-### MLOps & Tools
+### Deployment & Cloud
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -112,8 +114,6 @@ print("Status:", me.get_status())
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -129,40 +129,22 @@ print("Status:", me.get_status())
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omprakashrouttt/omprakashrouttt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omprakashrouttt/omprakashrouttt/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omprakashrouttt/omprakashrouttt/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🔥 Featured Projects
 
 <div align="center">
 
 [![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=omprakashrouttt&repo=Sentiment_analysis-model&theme=radical&hide_border=true)](https://github.com/omprakashrouttt/Sentiment_analysis-model)
 [![Find My Campus](https://github-readme-stats.vercel.app/api/pin/?username=omprakashrouttt&repo=Find-my-campus&theme=radical&hide_border=true)](https://github.com/omprakashrouttt/Find-my-campus)
-
-</div>
-
----
-
-## 🌟 Current Focus Areas
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Om Prakash))
-    LLMs
-      Prompt Engineering
-      Fine-tuning
-      Deployment
-    RAG Systems
-      Vector Databases
-      Embedding Models
-      Retrieval Optimization
-    VLMs
-      Multimodal Learning
-      Image-Text Models
-    MLOps
-      Model Monitoring
-      CI/CD Pipelines
-      Containerization
-```
 
 </div>
 
