@@ -1,4 +1,4 @@
-<div align="left">
+<div align="Center">
   
 # 👋 Hi, I'm Omprakash Rout AKA OP
 
