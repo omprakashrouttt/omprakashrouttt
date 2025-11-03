@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Om Prakash Rout
+# 👋 Hi, I'm OmPrakash Rout AKA OP
 
 ### 🤖 Machine Learning Engineer | 🔬 AI Researcher | 🎓 CS Undergrad
 
