@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
   
 # 👋 Hi, I'm Omprakash Rout AKA OP
 
 ### 🤖 Machine Learning Engineer | 🔬 AI Researcher | 🎓 CS Undergrad
 
-<p align="center">
+<p align="left">
   <em>Specializing in LLMs, RAG Systems, and ML Operations</em>
 </p>
 
