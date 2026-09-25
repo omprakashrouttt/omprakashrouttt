@@ -52,8 +52,8 @@ print(me.current_journey())
 print("Status:", me.get_status())
 ```
 
-- 🎓 **3rd Year Computer Science Student** passionate about advancing AI through research and practical applications
-- 🔬 **Researcher at IIT Roorkee** | **Ex-Researcher at IIT Bhubaneswar**
+- 🎓 **4th Year Computer Science Student** passionate about advancing AI through research and practical applications
+- 🔬 **Ex-Researcher at IIT Roorkee** | **Ex-Researcher at IIT Bhubaneswar** | **Ex-Researcher at SAMSUNG PRISM**
 - 🌱 Currently diving deep into **Vision Language Models (VLMs)** and **ML Operations**
 - 💡 Building production-ready ML systems with focus on **LLMs** and **RAG architectures**
 
